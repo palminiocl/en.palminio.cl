@@ -93,7 +93,7 @@ global:
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /img/aythor.jpg # default og:image
+    image: /img/author.jpg # default og:image
     description: Between bits, volts, and frequencies | Software, Electronics, Ham Radio, and more
     locale: en_CL # default og:locale
 
