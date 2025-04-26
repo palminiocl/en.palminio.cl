@@ -100,7 +100,7 @@ global:
   # Google Analytics
   google_analytics:
     enable: true # Whether to enable Google Analytics
-    id: G-90WHPFBX1C # Google Analytics Measurement ID
+    id: G-WQL2HHPS55 # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
     
 
