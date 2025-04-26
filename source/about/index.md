@@ -3,12 +3,12 @@ title: About Me
 date: 2025-04-18 13:00:00
 ---
 
-👋 ¡Hola! Soy **Lucas Palminio**, Ingeniero Civil Informático del sur de Chile, actualmente radicado en Temuco. Me encanta crear soluciones con tecnología: desde sitios web y herramientas en la nube, hasta scripts que automatizan tareas repetitivas ⚙️. También me interesa la ciberseguridad 🔐 y la administración de sistemas con Linux 🐧.
+👋 Hi! I’m **Lucas Palminio**, a Computer Science Engineer from southern Chile, currently based in Temuco. I love creating solutions with technology: from websites and cloud tools to scripts that automate repetitive tasks ⚙️. I’m also interested in cybersecurity 🔐 and Linux system administration 🐧.
 
-Durante mi formación he trabajado en proyectos reales con impacto. En **IDEAUFRO** participé en el desarrollo de plataformas web utilizando **VueJS**, **NodeJS** y **Docker**. Más adelante, en **Morris & Opazo**, desarrollé un widget personalizable para integrar un chatbot en sitios web. En ese contexto, creé un **plan maestro de pruebas bajo la norma IEEE 829**, asegurando compatibilidad y rendimiento en distintos navegadores y dispositivos 🧪.
+During my studies, I worked on real-world projects with impact. At **IDEAUFRO**, I participated in the development of web platforms using **VueJS**, **NodeJS**, and **Docker**. Later, at **Morris & Opazo**, I developed a customizable widget to integrate a chatbot into websites. In that context, I created a **master test plan following the IEEE 829 standard**, ensuring compatibility and performance across different browsers and devices 🧪.
 
-Además, fui ayudante de asignaturas como Sistemas Operativos y Programación durante mi paso por la universidad, lo que me permitió reforzar lo aprendido y compartirlo con otros estudiantes 👨‍🏫.
+Additionally, I was a teaching assistant for courses like Operating Systems and Programming during my time at university, which allowed me to reinforce what I learned and share it with other students 👨‍🏫.
 
-Me gusta seguir aprendiendo de manera autodidacta 📚. En mis ratos libres escribo en mi [blog](https://palminio.cl), experimento con electrónica 🔌 y exploro temas como software libre, desarrollo web y radioafición 📻. Soy radioaficionado con licencia chilena, [**CA6PUH**](https://www.qrz.com/db/CA6PUH), ¡y a veces me puedes encontrar en el aire!
+I enjoy learning independently 📚. In my free time, I write on my [blog](https://palminio.cl), experiment with electronics 🔌, and explore topics like open-source software, web development, and amateur radio 📻. I’m a licensed amateur radio operator in Chile, [**CA6PUH**](https://www.qrz.com/db/CA6PUH), and you might sometimes find me on the air!
 
-📄 Si te interesa colaborar en algún proyecto, puedes ver mi [currículum aquí](https://cv.palminio.cl). ¡Estoy abierto a nuevas ideas y desafíos!
+📄 If you’re interested in collaborating on a project, you can check out my [resume here](https://cv.palminio.cl). I’m open to new ideas and challenges!

@@ -13,11 +13,11 @@ info:
   # Site title
   title: Lucas Palminio
   # Site subtitle
-  subtitle: Blogs de programación, electronica, radioaficion y más
+  subtitle: Blogs about programming, electronics, ham radio, and more
   # Author name
   author: Lucas Palminio
   # Site URL
-  url: https://palminio.cl
+  url: https://en.palminio.cl
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -29,7 +29,7 @@ defaults:
   # Site logo
   logo: 
   # Site avatar
-  avatar: /img/autor.jpg
+  avatar: /img/author.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -89,13 +89,13 @@ global:
   # Whether to enable Preloader.
   preloader:
     enable: true
-    custom_message: Entre bits, voltios y frecuencias # Custom message. If empty, the site title will be displayed
+    custom_message: Between bits, volts, and frequencies # Custom message. If empty, the site title will be displayed
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /img/autor.jpg # default og:image
-    description: Entre bits, voltios y frecuencias | Software, Electronica, Radioafición y más
-    locale: es_CL # default og:locale
+    image: /img/aythor.jpg # default og:image
+    description: Between bits, volts, and frequencies | Software, Electronics, Ham Radio, and more
+    locale: en_CL # default og:locale
 
   # Google Analytics
   google_analytics:
@@ -133,8 +133,8 @@ home_banner:
   title: Lucas Palminio
   # Home banner subtitle
   subtitle: 
-    text: ["Entre bits, voltios y frecuencias","Software, Electronica, Radioafición y más"] # subtitle text, array
-    hitokoto:  # 一言配置
+    text: ["Between bits, volts, and frequencies", "Software, Electronics, Ham Radio, and more"] # subtitle text, array
+    hitokoto:  # Hitokoto configuration
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
       api: https://v1.hitokoto.cn # API URL, can add types, see https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
@@ -219,11 +219,11 @@ navbar:
         CV/Resume: https://cv.palminio.cl
         #Blog: https://ohevan.com
         #Friends: /friends
-    # Links: 
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
-    #     Link2: /link2
+    Language/Idioma: 
+      icon: fa-regular fa-language
+      submenus:
+          Español: https://palminio.cl
+          English: https://en.palminio.cl
     #     Link3: /link3
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
@@ -375,15 +375,15 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: palminiocl/palminio.cl # Github repository name e.g. EvanNotFound/hexo-theme-redefine
-      repo_id: R_kgDOOb-0RA # Github repository id
+      repo: palminiocl/en.palminio.cl # Github repository name e.g. EvanNotFound/hexo-theme-redefine
+      repo_id: R_kgDOOf6QOA # Github repository id
       category: General # Github discussion category
-      category_id: DIC_kwDOOb-0RM4CpPpu # Github discussion category id
+      category_id: DIC_kwDOOf6QOM4CpeiY # Github discussion category id
       mapping: title # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
       strict: 0 # Whether to enable strict mode. e.g. 0, 1
       reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
       emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
-      lang: es # Giscus language. e.g. en, zh-CN, zh-TW
+      lang: en # Giscus language. e.g. en, zh-CN, zh-TW
       input_position: top # Place the comment box above/below the comments. e.g. top, bottom
       loading: lazy # Load the comments lazily
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
